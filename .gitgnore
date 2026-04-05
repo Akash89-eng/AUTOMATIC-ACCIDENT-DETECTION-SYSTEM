@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Project folders (large files)
+uploads/
+evidence/
+processed/
+test_videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# YOLO weights
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
